@@ -1,9 +1,14 @@
 # FastAPI Sample
 
-fastapiのサンプルプロジェクト
+fastapiのサンプル
+
+以下のReactとVue.jsのプロジェクトのバックエンドとして使用しています。詳しくは以下のプロジェクトを参照してください。
+
+* <a href="https://github.com/allneko-club/fastapi-react-sample" class="external-link" target="_blank">fastapi-react-sample</a>
+* <a href="https://github.com/allneko-club/fastapi-vuejs-sample" class="external-link" target="_blank">fastapi-vuejs-sample</a>
 
 ## Features
-* <a href="https://github.com/tiangolo/fastapi" class="external-link" target="_blank">**FastAPI**</a>
+* FastAPI
 * python 3.10
 * ドメイン駆動設計(DDD)風にディレクトリ構造を変更
 * **Secure password** hashing by default.
@@ -17,5 +22,5 @@ fastapiのサンプルプロジェクト
 
 ### Notice
 * デフォルトではメール機能をオフにしているため、パスワードリカバリーなどメールを送信する機能を使うとエラーが発生します。
-
+* M系メモリ内臓のMacでpoetryを使うとエラーが発生する場合があります。poetryでrequirements.txtを出力し、Virtualenvなどの仮想環境を使うと動作します。
 ---
