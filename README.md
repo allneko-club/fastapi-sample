@@ -2,10 +2,7 @@
 
 fastapiのサンプル
 
-以下のReactとVue.jsのプロジェクトのバックエンドとして使用しています。詳しくは以下のプロジェクトを参照してください。
-
-* <a href="https://github.com/allneko-club/fastapi-react-sample" class="external-link" target="_blank">fastapi-react-sample</a>
-* <a href="https://github.com/allneko-club/fastapi-vuejs-sample" class="external-link" target="_blank">fastapi-vuejs-sample</a>
+<a href="https://github.com/allneko-club/fastapi-react-sample" class="external-link" target="_blank">fastapi-react-sample</a>のバックエンドとして使用しています。
 
 ## Features
 * FastAPI
